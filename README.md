@@ -8,7 +8,7 @@ I have been teaching with Varsity Tutors since the early Fall of 2021.  It has b
 This experience has forced me to create my own labs and teaching material as well as branch out from the theortetical to the practical.  The CompTIA certifications are
 a great primer for displaying an ability to focus and study, but they are only the first step in being a practitioner.  
 
-I have been lucky enough to have wonderfully dedicated students and to have recieved only positive feedback.  Below are a few of the Reviews I have recieved through
+I have been lucky enough to have wonderfully dedicated students and to have recieved positive feedback.  Below are a few of the Reviews I have recieved through
 Varsity Tutors:
 
 "Jeremiah breaks down material in a digestible and comprehensive way."
