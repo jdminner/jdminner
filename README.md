@@ -35,6 +35,9 @@ looking to learn. He gave me the exact tools and information to use in order to 
 certification."
 - James Steel, 2/21/2022
 
+"Excelente material, answered my questions and very patient. "
+-Ruben Gordils, 3/24/2022
+
 ABOUT ME
 
 My goal is to be a penetration tester/ethical hacker.
