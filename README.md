@@ -1,49 +1,44 @@
 TUTOR REVIEWS
 
-They say that the best way to learn something is to teach it.  I agree!  And I love cybersecurity and teaching!  
+They say the best way to learn something is to teach it.  I agree!  And I love cybersecurity and teaching!  
 
-I have been teaching with Varsity Tutors since the early Fall of 2021.  It has been a great experience and has led to be branching out and teaching on my own 
-(preferred) as well as with Varsity Tutors.  I have been lucky enough to have successful students in CompTIA ITF+, Network+, Security+ and CASP+!
+I have been teaching exclusively cybersecurity for the last year.  I have taught successful students in CompTIA ITF+, Network+, Security+, PenTest+ and CASP+!
 
 This experience has forced me to create my own labs and teaching material as well as branch out from the theortetical to the practical.  The CompTIA certifications are
 a great primer for displaying an ability to focus and study, but they are only the first step in being a practitioner.  
 
-I have been lucky enough to have wonderfully dedicated students and to have recieved positive feedback.  Below are a few of the reviews I have recieved through
-Varsity Tutors:
+Professionally, I am also a lab developer for Practice-Labs, creating lab content for PenTest+ that is used by Practice-Labs, ACI Learning, and ITPROTV! This experience was unique because the labs began with fully patched machines and I inserted vulnerabilities for exploitation. Students often ask me how to create thier own vulnerable lab environments.  My first answer is to strt with a premade vulnerable machine and work your way up to a customized vulnerable network.  ....inserting vulnerabilities for exploitation is a skill set all on its own!
+
+I have been lucky enough to have wonderfully dedicated students from those who were new to IT to major program managers and Assistant CISOs to network and secuirty professionals and even professional athlethes!  And I am greatful to have recieved positive feedback.  Below are a few examples:
 
 "Jeremiah breaks down material in a digestible and comprehensive way."
-- Aysha Sweilem, 9/29/2021
+- Aysha Sweilem
 
 "I feel much more confident taking my exam now versus when I first started these sessions.  Thank you Jeremiah!"
-- Aysha Sweilem, 10/5/2021
-
-"Great attitude and I feel confident that I can pass my exam knowing that I have Jeremiah as my new tutor.  Thank you for matching me with him!"
-- Malaysha White, 11/7/2021
+- Aysha Sweilem
 
 "I passed the CompTIA Secuirty+ exam largely because of Jeremiah's broad and robust cybersecurity knowledge.  In addition, Jeremiah custom tailored his curriculum to
 suit my needs as a student starting in the cybersecurity landscape.  I could not be happier with a tutor like him as he took me to the next level"
-- Shmuel Johnson, 1/13/2022
+- Shmuel Johnson
 
 "Thank you Jeremiah for believing in me and working with me to improve my weak areas for CompTIA Security+. I'm still in shock that I passed my exam!! I know that
 this wouldn't be possible without all of your help! You exceeded all of my expectations for a tutor and I look forward to working with you in the future! Again,
 thank you for always answering my questions and even being available for a quick call/ text/email just days before my exam! You are literally the best!!! Thank you
 thank you thank you, I just can't thank you enough!!!"
-- Malaysha White, 1/23/2022
+- Malaysha White
 
 "Jeremiah did a great job on our tutoring session! I was really surprised that Varsity Tutors was able to come up with a person that knew the exact material I was
 looking to learn. He gave me the exact tools and information to use in order to pass my certification. As a direct result, I was able to pass the CASP+ 004
 certification."
-- James Steel, 2/21/2022
+- James Steel
 
 "Excelente material, answered my questions and very patient. "
--Ruben Gordils, 3/24/2022
+-Ruben Gordils
 
 ABOUT ME
 
-My goal is to be a penetration tester/ethical hacker.
-
 I am a senior Navy officer transitioning out of the military to the cybersecurity industry, with a passion for Penetration Testing/Ethical Hacking and teaching.
-With 22+ years in the US Navy, I have been a leader at all levels and am comfortable operating and teaching at both the technical and executive levels.
+With 23+ years in the US Navy, I have been a leader at all levels and am comfortable operating and teaching at both the technical and executive levels.
 
 The stereotype of senior military officers is that they have a tremendous amount of military operational experience and leadership, but little-to-no
 technical hands-on expertise.  I come to the table with operational experience, leadership, AND technical-hands-on acumen.  As a Navy Nuclear Engineer,
@@ -55,7 +50,7 @@ IT technical advisor for programs supporting DoD missions.
 
 I am available and ready for additional full-time employment now.  Recognizing and planning for Navy retirement, I created a remote position for myself
 at the Denver Navy Reserve Center.  I am the primary (and only) application developer to create and maintain a Microsoft Access program that collates,
-filters, and prioritizes raw data for more than 750 Navy Reserve Personnel.  
+filters, and prioritizes raw data for more than 800 Navy Reserve Personnel.  
 
 In 2021, I completed 5 CompTIA certifications, though CASP+, in a period of months and without any exam failures.  To immediately use my knowledge, I began
 working for Varsity Tutors, teaching cybersecurity certification programs to IT professionals (such as System Admins, Directors of IT, and multi-million
@@ -66,7 +61,7 @@ ethical hacking on virtual targets.
 
 To maintain and develop my own technical expertise I am an active member of the CompTIA Instructor network and I routinely take my students though
 Capture the Flag (CTF) and vulnerability challenges, using OWASP Webgoat, PicoCTF, and Over the Wire.  You can view some of the labs I have created
-and solutions in my github repositories.
+and solutions in my github repositories.  I have also created the PT0-002 labs for Practice-Labs, ACI Learning, and ITPROTV.
 
 Through my Navy career, I have lived in the US, England, Canada, and Japan.  I have also traveled as the primary contact representing the US and 
 Canadian Navy for interational contracts and planning in the Netherlands, Norway, Spain, Italy, France, South Korea, Japan, and Australia. I have also
