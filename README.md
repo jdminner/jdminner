@@ -1,5 +1,3 @@
-TUTOR REVIEWS
-
 They say the best way to learn something is to teach it.  I agree!  And I love cybersecurity and teaching!  
 
 I have been teaching exclusively cybersecurity for the last year.  I have taught successful students in CompTIA ITF+, Network+, Security+, PenTest+ and CASP+!
