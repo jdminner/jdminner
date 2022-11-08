@@ -5,7 +5,7 @@ I have been teaching exclusively cybersecurity for the last year.  I have taught
 This experience has forced me to create my own labs and teaching material as well as branch out from the theortetical to the practical.  The CompTIA certifications are
 a great primer for displaying an ability to focus and study, but they are only the first step in being a practitioner.  
 
-I am CompTIA Certified in Network+, Server+, Security+, CySA+, PenTest+, and CASP+.
+I am a CompTIA Certified Technical Trainer (CTT+) and am certified in Network+, Server+, Security+, CySA+, PenTest+, and CASP+.
 
 Professionally, I am also a lab developer for Practice-Labs, creating lab content for PenTest+ that is used by Practice-Labs, ACI Learning, and ITPROTV! This experience was unique because the labs began with fully patched machines and I inserted vulnerabilities for exploitation. Students often ask me how to create thier own vulnerable lab environments.  My first answer is to strt with a premade vulnerable machine and work your way up to a customized vulnerable network.  ....inserting vulnerabilities for exploitation is a skill set all on its own!
 
